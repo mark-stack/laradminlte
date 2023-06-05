@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Markavel
+                    Mark Evans
                 </div>
 
                 <div class="links">
